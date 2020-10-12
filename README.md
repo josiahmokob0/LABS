@@ -3,4 +3,5 @@
 
 ### Content
 
- - [3d](./3d)
+ - 3D experiments
+	- [3d](./3d)
