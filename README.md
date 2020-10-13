@@ -4,4 +4,4 @@
 ### Content
 
  - 3D experiments
-	- [3d](./3d)
+	- [Rotating Cube](./3d/rotating-cube)
