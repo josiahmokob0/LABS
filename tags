@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/mnt/ssd1/projects/TIL/LABS/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+Content	README.md	/^### Content$/;"	S
+LABS	README.md	/^### LABS$/;"	S
+bar	src/index.js	/^const bar = svg$/;"	C
+bottom	src/index.js	/^  bottom: 30,$/;"	p	class:margin
+data	src/index.js	/^const data = [$/;"	C
+form	src/index.js	/^const form = d3.select("form");$/;"	C
+gx	src/index.js	/^const gx = svg.append("g").call(xAxis);$/;"	C
+gy	src/index.js	/^const gy = svg.append("g").call(yAxis);$/;"	C
+height	src/index.js	/^const height = 300;$/;"	C
+left	src/index.js	/^  left: 40,$/;"	p	class:margin
+margin	src/index.js	/^const margin = {$/;"	c
+options	src/index.js	/^const options = [$/;"	C
+right	src/index.js	/^  right: 0,$/;"	p	class:margin
+root	src/index.html	/^    <div id="root"><\/div>$/;"	I
+svg	src/index.js	/^const svg = d3.create("svg").attr("viewBox", [0, 0, width, height]);$/;"	C
+top	src/index.js	/^  top: 20,$/;"	p	class:margin
+width	src/index.js	/^const width = 300;$/;"	C
+x	src/index.js	/^const x = d3$/;"	C
+xAxis	src/index.js	/^const xAxis = (g) =>$/;"	C
+y	src/index.js	/^const y = d3$/;"	C
+yAxis	src/index.js	/^const yAxis = (g) =>$/;"	C
